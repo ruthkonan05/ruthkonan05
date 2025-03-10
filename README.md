@@ -63,7 +63,7 @@ I'm a passionate **Software Engineer** specializing in **Python**, with experien
 - **AI & ML:** LLaMA, LangChain, Ollama
 - **Other Tools:** Docker, Git, Jupyter Notebook, Postman, DBeaver
 - **Languages:** French (fluent), English (Fluent), Korean (intermediate)
-- 
+  
 ## 🎵 Fun Facts
 - Gospel & K-pop   lover 🎶
 - Enthusiast of Korean ,Chineese, American dramas 🇰🇷
