@@ -25,8 +25,12 @@ I'm a passionate **Software Engineer** specializing in **Python**, with experien
  
 ## 📂 Projects
 <!--🔹 **[Stock Management App](#)** – A scalable real-time inventory management system. --> 
-🔹 **[Tourism AI Chatbot](#)** – RAG-based AI chatbot for tourism in Côte d'Ivoire.  
+<!--🔹 **[Tourism AI Chatbot](#)** – RAG-based AI chatbot for tourism in Côte d'Ivoire.   -->
 🔹 **[Sensor-Based Smart Detection System (IoT + ML)](https://github.com/ruthkonan05/human_detection_sensor)** - human-detection monitoring system using Raspberry Pi, ultrasonic sensors, and MongoDB for real-time tracking
+🔹 **[Camera-Based Human Detection + Mobile App ](https://github.com/ruthkonan05/cctv )** -using OpenCV and facial recognition with a Flutter mobile alert app sending real-time alerts
+🔹 **[AI & Prompt Engineering for Smart Home and IoT Systems ](https://github.com/ruthkonan05/smart_home_iot_llm/)*-	Designed a voice-controlled smart home system using OpenAI Whisper for voice transcription  and using GPT-3.5 to interpret user intent beyond predefined commands
+
+
 
 
 <!--🔹 **[Personal Blog & Portfolio](#)** – A custom Django & React-based blog and portfolio site.-->
