@@ -33,7 +33,7 @@ I'm a passionate **Software Engineer** specializing in **Python**, with experien
 -using OpenCV and facial recognition with a Flutter mobile alert app sending real-time alerts
   
 🔹 **[AI & Prompt Engineering for Smart Home and IoT Systems ](https://github.com/ruthkonan05/smart_home_iot_llm/)**
-  -	Designed a voice-controlled smart home system using OpenAI Whisper for voice transcription  and using GPT-3.5 to interpret user intent beyond predefined commands
+-	Designed a voice-controlled smart home system using OpenAI Whisper for voice transcription  and using GPT-3.5 to interpret user intent beyond predefined commands
 
 
 
